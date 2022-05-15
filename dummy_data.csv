@@ -1,0 +1,143 @@
+﻿hospital,date,amount,class
+RPH,24/04/2022,233,Adult tertiary
+RPH,2/11/2021,476,Adult tertiary
+RPH,17/04/2021,90,Adult tertiary
+RPH,1/06/2018,216,Adult tertiary
+RPH,19/08/2020,347,Adult tertiary
+RPH,1/06/2017,89,Adult tertiary
+RPH,11/03/2019,546,Adult tertiary
+RPH,9/05/2020,17,Adult tertiary
+RPH,6/05/2020,238,Adult tertiary
+RPH,27/07/2020,20,Adult tertiary
+RPH,18/07/2020,488,Adult tertiary
+RPH,15/08/2018,493,Adult tertiary
+RPH,8/06/2021,228,Adult tertiary
+RPH,26/09/2019,372,Adult tertiary
+RPH,24/08/2021,61,Adult tertiary
+RPH,15/02/2020,363,Adult tertiary
+RPH,19/06/2018,116,Adult tertiary
+RPH,21/03/2019,125,Adult tertiary
+RPH,24/08/2019,34,Adult tertiary
+RPH,5/12/2018,99,Adult tertiary
+SCGH,20/07/2020,568,Adult tertiary
+SCGH,23/02/2017,425,Adult tertiary
+SCGH,21/06/2020,216,Adult tertiary
+SCGH,22/09/2019,381,Adult tertiary
+SCGH,18/11/2019,228,Adult tertiary
+SCGH,19/08/2018,424,Adult tertiary
+SCGH,12/11/2020,243,Adult tertiary
+SCGH,23/05/2018,555,Adult tertiary
+SCGH,29/06/2018,387,Adult tertiary
+SCGH,12/03/2018,282,Adult tertiary
+SCGH,22/08/2018,588,Adult tertiary
+SCGH,21/05/2021,442,Adult tertiary
+SCGH,19/01/2022,595,Adult tertiary
+SCGH,15/05/2021,18,Adult tertiary
+SCGH,26/11/2021,564,Adult tertiary
+SCGH,17/07/2017,462,Adult tertiary
+SCGH,13/01/2020,486,Adult tertiary
+SCGH,27/11/2021,219,Adult tertiary
+SCGH,28/02/2018,573,Adult tertiary
+SCGH,26/02/2018,490,Adult tertiary
+SCGH,11/05/2021,474,Adult tertiary
+SCGH,30/08/2018,355,Adult tertiary
+FSH,5/05/2017,527,Adult tertiary
+FSH,14/10/2017,23,Adult tertiary
+FSH,6/05/2017,428,Adult tertiary
+FSH,19/05/2018,453,Adult tertiary
+FSH,27/10/2021,302,Adult tertiary
+FSH,19/01/2020,205,Adult tertiary
+FSH,13/12/2020,538,Adult tertiary
+FSH,24/08/2019,532,Adult tertiary
+FSH,27/09/2021,13,Adult tertiary
+FSH,8/07/2021,411,Adult tertiary
+FSH,21/12/2019,348,Adult tertiary
+FSH,19/01/2017,546,Adult tertiary
+FSH,22/09/2021,155,Adult tertiary
+FSH,17/12/2019,457,Adult tertiary
+FSH,6/12/2018,219,Adult tertiary
+FSH,6/06/2020,341,Adult tertiary
+FSH,5/12/2020,346,Adult tertiary
+FSH,18/02/2017,38,Adult tertiary
+FSH,25/05/2021,478,Adult tertiary
+FSH,5/08/2019,162,Adult tertiary
+FSH,30/04/2017,188,Adult tertiary
+FSH,11/01/2018,62,Adult tertiary
+KEMH,27/03/2022,563,Obstetric
+KEMH,7/07/2018,466,Obstetric
+KEMH,14/06/2020,159,Obstetric
+KEMH,1/02/2018,506,Obstetric
+KEMH,10/09/2017,44,Obstetric
+KEMH,30/11/2018,376,Obstetric
+KEMH,15/06/2018,163,Obstetric
+KEMH,20/06/2018,354,Obstetric
+KEMH,28/01/2019,410,Obstetric
+KEMH,11/10/2021,27,Obstetric
+KEMH,20/12/2019,389,Obstetric
+KEMH,15/02/2019,373,Obstetric
+KEMH,5/08/2018,600,Obstetric
+KEMH,4/04/2020,420,Obstetric
+KEMH,27/03/2019,535,Obstetric
+KEMH,29/11/2021,567,Obstetric
+KEMH,12/03/2021,451,Obstetric
+KEMH,3/04/2017,98,Obstetric
+KEMH,6/09/2020,542,Obstetric
+KEMH,14/12/2020,369,Obstetric
+KEMH,18/02/2019,377,Obstetric
+KEMH,26/09/2017,587,Obstetric
+KEMH,1/11/2018,292,Obstetric
+KEMH,19/08/2017,290,Obstetric
+KEMH,21/01/2017,265,Obstetric
+KEMH,5/01/2022,509,Obstetric
+KEMH,1/03/2020,437,Obstetric
+KEMH,15/08/2019,577,Obstetric
+KEMH,13/01/2018,251,Obstetric
+KEMH,3/10/2018,292,Obstetric
+KEMH,13/01/2022,378,Obstetric
+KEMH,1/06/2020,268,Obstetric
+KEMH,18/04/2020,462,Obstetric
+KEMH,18/03/2020,345,Obstetric
+KEMH,1/08/2018,120,Obstetric
+KEMH,15/07/2017,252,Obstetric
+KEMH,1/12/2019,165,Obstetric
+KEMH,21/11/2019,387,Obstetric
+KEMH,17/12/2021,167,Obstetric
+KEMH,18/12/2021,529,Obstetric
+KEMH,9/02/2020,413,Obstetric
+KEMH,7/05/2018,65,Obstetric
+KEMH,16/08/2019,141,Obstetric
+KEMH,13/08/2021,288,Obstetric
+KEMH,18/08/2021,584,Obstetric
+KEMH,6/07/2019,390,Obstetric
+KEMH,14/07/2018,312,Obstetric
+KEMH,20/03/2018,474,Obstetric
+KEMH,2/05/2017,192,Obstetric
+PCH,16/09/2021,317,Paediatric
+PCH,19/09/2017,501,Paediatric
+PCH,13/10/2019,437,Paediatric
+PCH,13/03/2017,44,Paediatric
+PCH,8/12/2020,49,Paediatric
+PCH,15/11/2020,385,Paediatric
+PCH,30/08/2018,203,Paediatric
+PCH,31/05/2018,114,Paediatric
+PCH,16/01/2022,345,Paediatric
+PCH,25/02/2022,458,Paediatric
+PCH,24/11/2018,232,Paediatric
+PCH,11/10/2021,420,Paediatric
+PCH,21/05/2018,475,Paediatric
+PCH,25/04/2017,199,Paediatric
+PCH,29/11/2020,94,Paediatric
+PCH,9/02/2018,235,Paediatric
+PCH,29/06/2017,369,Paediatric
+PCH,25/12/2017,595,Paediatric
+PCH,15/08/2019,328,Paediatric
+PCH,4/02/2018,308,Paediatric
+PCH,14/01/2020,446,Paediatric
+PCH,15/03/2021,436,Paediatric
+PCH,27/01/2017,348,Paediatric
+PCH,13/02/2018,132,Paediatric
+PCH,21/06/2020,598,Paediatric
+PCH,9/01/2022,505,Paediatric
+PCH,15/07/2017,519,Paediatric
+PCH,9/06/2020,237,Paediatric
+PCH,29/10/2020,81,Paediatric
